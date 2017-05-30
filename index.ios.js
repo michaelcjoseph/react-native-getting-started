@@ -26,6 +26,10 @@ export default class ReactNativeGettingStarted extends Component {
           Press Cmd+R to reload,{'\n'}
           Cmd+D or shake for dev menu
         </Text>
+        <Text style={styles.instructions}>
+          Editing this App! {'\n'}
+          Showing off my insane skills.
+        </Text>
       </View>
     );
   }
